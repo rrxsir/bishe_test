@@ -1,0 +1,40 @@
+{
+  "signals": [
+    {
+      "id": "web-1",
+      "title": "Rust-based Data Pipelines",
+      "category": "trend",
+      "timestamp": "2024-03-12T06:20:00",
+      "summary": "Community surveys show increased adoption of Rust for streaming analytics.",
+      "impact": "Improves safety guarantees in high-throughput systems.",
+      "relations": ["local-2", "config-2"]
+    },
+    {
+      "id": "web-2",
+      "title": "LF AI launches Open Agents SIG",
+      "category": "ecosystem",
+      "timestamp": "2024-03-02T14:00:00",
+      "summary": "The Linux Foundation AI & Data community introduces a special interest group for autonomous agents.",
+      "impact": "Catalyst for standardized evaluation suites.",
+      "relations": ["local-3"]
+    },
+    {
+      "id": "web-3",
+      "title": "Kubernetes Releases Multi-Cluster API Beta",
+      "category": "project",
+      "timestamp": "2024-02-28T09:45:00",
+      "summary": "Upstream Kubernetes introduces beta APIs to simplify multi-cluster operations.",
+      "impact": "Enables cross-cluster scheduling experiments in open research labs.",
+      "relations": ["local-2", "config-1"]
+    },
+    {
+      "id": "web-4",
+      "title": "Open Geospatial Foundation Expands Data Commons",
+      "category": "ecosystem",
+      "timestamp": "2024-02-20T16:10:00",
+      "summary": "New working groups align on satellite imagery licensing for open innovation.",
+      "impact": "Broader data availability for civic tech initiatives.",
+      "relations": ["local-3", "config-1"]
+    }
+  ]
+}
